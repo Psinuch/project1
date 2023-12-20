@@ -1,0 +1,103 @@
+.header_line {
+    background-image: url("imgs/grassfon3.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    height: 91px;
+    width: 1503px;
+    display: flex;
+}
+.menu {
+    background-color: #146c1a;
+    height: 40px;
+    width: 1503px;
+}
+.menu-nav {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    padding-left: 300px;
+    text-decoration: none;
+}
+.header_img {
+    padding-left: 100px;
+    padding-top: 13px;
+}
+.icon {
+    width: 48px;
+    height: 48px;
+}
+.logo {
+    width: 80px;
+    height: 80px;
+    margin-left: 350px;
+    margin-top: 5px;
+}
+.text_form{
+    padding-left: 22px;
+    padding-top: 24px;
+}
+.search-form_txt {
+    background-color: #2d4131;
+    border-radius: 20px;
+    height: 47px;
+    width: 835px;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+}
+.main {
+    display: flex;
+}
+body {
+    background-image: url("imgs/grass1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+}
+.main_text-a {
+    font-family: 'Playfair', serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+}
+.main_all-text {
+    background-color: #ffffff;
+    height: 169px;
+    width: 1490px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    margin-top: 15px;
+}
+.main_all-text-2 {
+    background-color: #ffffff;
+    height: 169px;
+    width: 1490px;
+    margin-top: 15px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.head_text {
+    font-family: 'Yeseva One', serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.main_img {
+    width: 229px;
+    height: 131px;
+    margin-left: 17px;
+    border: 4px solid white;
+}
+.main_cont {
+    display: flex;
+}
+.main_head-text {
+    text-align: center;
+}
